@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  padding-top: 4rem;
+  min-height: 100vh;
+}
+
+.navbar{
+  background-color: red !important;
+}
